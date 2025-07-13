@@ -35,9 +35,10 @@ A few users have their status set to 1.
 All users have status = 1.
 ![All Toggled](./IMG_5992.jpeg)
 
-### 6️⃣ 💻 Code in VS Code
-Main PHP logic (form, insert, and toggle).
-![VSCode](./IMG_5993.jpeg)
+
+### 6️⃣ Code in VS Code
+Visual overview of the ryoof.php logic inside VS Code.
+![Code in VS Code](./IMG_5993.jpeg)
 
 ---
 
@@ -52,21 +53,12 @@ The code is located in `ryoof.php`. It contains:
 
 ---
 
-## 🗂️ Files Required
+## 📂 Files Required
 
 - `ryoof.php`
 - MySQL database `task2` with table `task2_users`
 - Local server (e.g., XAMPP)
 
----
-
-## ✅ How to Run
-
-1. Start Apache & MySQL via XAMPP
-2. Place `ryoof.php` inside `htdocs/task2`
-3. Create the database and table using phpMyAdmin
-4. Open browser and go to: `localhost/task2/ryoof.php`
-5. Start submitting and toggling! 🎉
 
 ---
 
